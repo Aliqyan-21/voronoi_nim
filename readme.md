@@ -2,7 +2,7 @@
 
 A simple Nim project to generate a Voronoi diagram with random seed points, colored using a Rosé Pine-inspired palette, and saved as a PPM image. This project is designed for learning Nim’s basics, including arrays, types, file I/O, and bitwise operations.
 
-![output](assets/output.ppm)
+![output](assets/output.png)
 
 ## Purpose
 This project demonstrates:
